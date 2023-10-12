@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    background: darkgray;
+    overflow: hidden; /* this prevents unwanted horizontal scrolling and extra whitespace in your project when elements exist outside the viewport */
+    text-align: center;
+}
+
+#myCanvas{
+    background: lightgray;
+}
